@@ -1,4 +1,4 @@
-# The-Great-RGB-Color-Game
+# The Great RGB Color Game
 A game made with HTML, CSS and Javascript
 
 # Live demo:
